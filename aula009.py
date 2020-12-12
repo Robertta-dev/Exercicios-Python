@@ -1,0 +1,8 @@
+frase = ('Que dia lindo para aprender programação')
+print(frase[0])
+print(frase[8:13])
+print(frase[8:42])
+print(frase[8:42:2])
+print(frase[:8])
+print(frase[8:])
+print(frase[8::3])
