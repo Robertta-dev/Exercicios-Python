@@ -1,0 +1,5 @@
+print('Qual sua data de nascimento?')
+dia= input ('Qual dia?')
+mês= input ('Qual mês?')
+ano= input ('Qual ano?')
+print (dia, '/', mês, '/', ano)
